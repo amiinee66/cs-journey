@@ -1,2 +1,6 @@
-# cs-journey
-Computer science &amp; software engineering.Building across code, systems, and security.
+# CS Journey
+
+Computer Science & Software Engineering.
+
+A collection of my university work,
+programming exercises, and personal projects.
